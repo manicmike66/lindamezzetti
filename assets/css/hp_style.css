@@ -43,7 +43,7 @@
 #wsite-content h2.wsite-product-title {}
 .wsite-product .wsite-product-price a {}
 .wsite-header {
-	background-image: url({{ "assets/img/1469447186.png" }}) !important;
+	background-image: url({{ "../img/header_images/1469447186.png" }}) !important;
 	background-position: 0 0 !important;
 }
 

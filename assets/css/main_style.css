@@ -30,7 +30,7 @@
  #header-right td { padding: 0; }
  #header-right .phone-number .wsite-text { color: #604660; font-size: 12px; font-weight: normal; font-family: Arial, Helvetica, sans-serif; margin: 7px 0 5px 15px; text-decoration: none; display: block; white-space: nowrap; }
  #header-right .wsite-social { vertical-align: middle; margin: 5px 0 5px 10px; }
- .wsite-social-item { width: 23px; height: 23px; margin: 0 0 0 3px; background-image:url(../img/theme/social-purple.png); }
+ .wsite-social-item { width: 23px; height: 23px; margin: 0 0 0 3px;} /* background-image:url(../img/theme/social-purple.png); }*/
  .wsite-social-facebook {background-position:0 0;}
  .wsite-social-facebook:hover {background-position:0 -23px;}
  .wsite-social-facebook:active {background-position:0 -46px;}

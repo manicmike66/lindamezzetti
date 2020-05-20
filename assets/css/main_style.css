@@ -156,4 +156,8 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 *::after {
   box-sizing: content-box;
 }
-
+.carousel-inner > .carousel-item > img, .carousel-inner > .item > a > img {
+    width: auto !important;
+    margin: auto;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {padding: 2px; background-color: blue;}

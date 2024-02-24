@@ -12,25 +12,25 @@ description: "What Linda does"
  <div id="carouselSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
    <div class="carousel-item active">
-   <img src="assets/img/meworking/0.jpg" class="d-block w-100" alt="Me working" />
+   <img src="{{ "assets/img/meworking/0.jpg"|relative_url }}" class="d-block w-100" alt="Me working" />
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/meworking/1.jpg" class="d-block w-100" alt="Me working" />
+   <img src="{{ "assets/img/meworking/1.jpg"|relative_url }}" class="d-block w-100" alt="Me working" />
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/meworking/2.jpg" class="d-block w-100" alt="Me working" />
+   <img src="{{ "assets/img/meworking/2.jpg"|relative_url }}" class="d-block w-100" alt="Me working" />
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/meworking/3.jpg" class="d-block w-100" alt="Me working" />
+   <img src="{{ "assets/img/meworking/3.jpg"|relative_url }}" class="d-block w-100" alt="Me working" />
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/meworking/4.jpg" class="d-block w-100" alt="Me working" />
+   <img src="{{ "assets/img/meworking/4.jpg"|relative_url }}" class="d-block w-100" alt="Me working" />
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/meworking/5.jpg" class="d-block w-100" alt="Me working" />
+   <img src="{{ "assets/img/meworking/5.jpg"|relative_url }}" class="d-block w-100" alt="Me working" />
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/meworking/6.jpg" class="d-block w-100" alt="Me working" />
+   <img src="{{ "assets/img/meworking/6.jpg"|relative_url }}" class="d-block w-100" alt="Me working" />
    </div><!-- end item -->
   </div><!-- end inner -->
 </div><!-- end carousel-->
@@ -62,7 +62,7 @@ description: "What Linda does"
   </ol>
   <div class="carousel-inner">
    <div class="carousel-item active">
-   <img src="assets/img/fpslides/0.jpg" alt="slide 1" class="d-block w-100" />
+   <img src="{{ "assets/img/fpslides/0.jpg"|relative_url }}" alt="slide 1" class="d-block w-100" />
    <div class="carousel-caption d-none d-md-block">
    <span class="bg-dark">
    New York, 5 th Ave 1892 41 x 51 cm acrylic on canvas
@@ -70,7 +70,7 @@ description: "What Linda does"
    </div>
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/fpslides/1.jpg" alt="slide 2" class="d-block w-100" />
+   <img src="{{ "assets/img/fpslides/1.jpg"|relative_url }}" alt="slide 2" class="d-block w-100" />
    <div class="carousel-caption d-none d-md-block">
    <span class="bg-dark">
    Cotton Lined messenger bag.
@@ -78,7 +78,7 @@ description: "What Linda does"
    </div>
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/fpslides/2.jpg" alt="slide 3" class="d-block w-100" />
+   <img src="{{ "assets/img/fpslides/2.jpg"|relative_url }}" alt="slide 3" class="d-block w-100" />
    <div class="carousel-caption d-none d-md-block">
    <span class="bg-dark">
    Small corduroy backpack
@@ -86,7 +86,7 @@ description: "What Linda does"
    </div>
    </div><!-- end item -->
    <div class="carousel-item">
-   <img height="200" src="assets/img/fpslides/3.jpg" alt="slide 4" class="d-block w-100" />
+   <img height="200" src="{{ "assets/img/fpslides/3.jpg"|relative_url }}" alt="slide 4" class="d-block w-100" />
    <div class="carousel-caption d-none d-md-block">
    <span class="bg-dark">
    New projects
@@ -94,7 +94,7 @@ description: "What Linda does"
    </div>
    </div><!-- end item -->
    <div class="carousel-item">
-   <img src="assets/img/fpslides/4.jpg" alt="slide 5" class="d-block w-100" />
+   <img src="{{ "assets/img/fpslides/4.jpg"|relative_url }}" alt="slide 5" class="d-block w-100" />
    <div class="carousel-caption d-none d-md-block">
    <span class="bg-dark">
    Brisbane 76 x 76 cm acrylic on canvas
@@ -108,7 +108,7 @@ description: "What Linda does"
 </div><!-- end row -->
 </div><!-- end container -->
 <h3>Personal Profile</h3>
-<p class="h5"><img class="float-left mr-3 mb-2" alt="A photo of the artist" src="assets/img/linda_profile_pic.jpg" />I was born in Montreal Canada. I trained as a registered nurse and have worked as such in Montreal, Canada, Baton Rouge, Louisiana, Chapel Hill, North Carolina, USA and Lausanne, Switzerland. In 1995 I left nursing to raise my family.</p>
+<p class="h5"><img class="float-left mr-3 mb-2" alt="A photo of the artist" src="{{ "assets/img/linda_profile_pic.jpg"|relative_url }}" />I was born in Montreal Canada. I trained as a registered nurse and have worked as such in Montreal, Canada, Baton Rouge, Louisiana, Chapel Hill, North Carolina, USA and Lausanne, Switzerland. In 1995 I left nursing to raise my family.</p>
 
 <p class="h5">I started to paint in 1991 while on sabbatical in Belgium with my ex-husband, where I took a simple painting class.  Upon our return to the USA I continued my pursuit of painting under the teutalage of Jane Filer at THE ARTS CENTER in Carrboro, North Carolina on and off for about 10 years.</p>
 

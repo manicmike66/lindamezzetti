@@ -6,7 +6,7 @@
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
         <script src="{{ "assets/js/gdprscript.js" | relative_url }}"></script>
         <script src="{{ "assets/js/body.js" | relative_url }}"></script>
-        <title>Linda Mezzetti - Silk Paintings</title><meta property="og:site_name" content="Linda Mezzetti">
+        <title>Linda Mezzetti - {{ page.title }} </title><meta property="og:site_name" content="Linda Mezzetti">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">

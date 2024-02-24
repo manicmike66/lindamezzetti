@@ -38,8 +38,8 @@ description: "Display of all her paintings"
 <div class="container">
 <div class="row">
 {% for painting in site.data.paintings %}
-<div {% if painting.file == 0%} class="col carousel-item active" {% else %} class="col carousel-item" {% endif %}> <img class="d-block mx-auto" src="../assets/img/{{ painting.type }}/{{ painting.file }}.jpg" alt="{{ painting.title }}"> 
-<div class="carousel-caption"> <h5>{{ painting.title }}</h5> <p>{{ painting.desc }} {{ painting.size}}</p> </div><!--end-caption-->
+<div {% if painting.file == 0%} class="col carousel-item active" {% else %} class="col carousel-item" {% endif %}> <img class="mx-auto" src="../assets/img/{{ painting.type }}/{{ painting.file }}.jpg" alt="{{ painting.title }}"> 
+<div class="carousel-caption" style="right:60%;left:0;"> <h5>{{ painting.title }}</h5> <p>{{ painting.desc }} {{ painting.size}}</p> </div><!--end-caption-->
 </div><!--end-item-->
 {% endfor %}
 </div><!-- end row -->

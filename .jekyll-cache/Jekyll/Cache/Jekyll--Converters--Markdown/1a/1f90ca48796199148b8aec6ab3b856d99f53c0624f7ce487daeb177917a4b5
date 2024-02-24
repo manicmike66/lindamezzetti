@@ -1,11 +1,4 @@
----
-title: "About me"
-layout: "normal"
-keywords: "Linda Mezzetti, Melbourne, Australia, Bags"
-description: "What Linda does"
----
-
-<div class="container">
+I"o<div class="container">
 <div class="row justify-content-md-center">
 <div class="col-7 mt-4 pt-4">
  <div style="width:100%; min-height:300px;">
@@ -106,7 +99,8 @@ description: "What Linda does"
 </div><!-- end width-->
 </div><!-- end col -->
 </div><!-- end row -->
-</div><!-- end container -->
+</div>
+<!-- end container -->
 <h3>Personal Profile</h3>
 <p class="h5"><img class="float-left mr-3 mb-2" alt="A photo of the artist" src="assets/img/linda_profile_pic.jpg" />I was born in Montreal Canada. I trained as a registered nurse and have worked as such in Montreal, Canada, Baton Rouge, Louisiana, Chapel Hill, North Carolina, USA and Lausanne, Switzerland. In 1995 I left nursing to raise my family.</p>
 
@@ -118,3 +112,11 @@ description: "What Linda does"
 
 <p class="h5">I speak English, French and Italian.</p>
 <p class="h5">I was an active member of <a target="_NEW" href="https://www.artwestcommunitygallery.org.au/">Art West Community Gallery</a> and am now an active member of <a href="https://whitehorsearts.info/staging/">Whitehorse Arts Association</a>.</p>
+<div id="footer-wrap">
+<div class="container">
+<div id="footer">
+
+</div>
+
+</div></div>
+:ET

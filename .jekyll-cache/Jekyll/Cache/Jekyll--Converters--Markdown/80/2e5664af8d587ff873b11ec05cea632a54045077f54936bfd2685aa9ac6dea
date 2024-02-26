@@ -1,361 +1,254 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-   <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1 shrink-to-fit=no">
-        <script async="" src="//cdn2.editmysite.com/js/wsnbn/snowday262.js"></script>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
-        <script src="/assets/js/gdprscript.js"></script>
-        <script src="/assets/js/body.js"></script>
-        <title>Linda Mezzetti - Art Thumbnails </title><meta property="og:site_name" content="Linda Mezzetti">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-<link id="wsite-base-style" rel="stylesheet" type="text/css" href="/assets/css/sites.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/fancybox.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/main_style.css" title="wsite-theme-css">
-<link href="//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
-
-		
-    </head>
-<body class="wsite-theme-light no-header-page"><!-- start of nav -->
-<div class="header-wrap">
- <div class="container">
-  <div id="header-container">
-   <div id="header" class="container pt-4">
-   <div class="row pt-4">
-   <div class="col-6"> <span class="wsite-logo"> <a href="/"> <h1 id="wsite-title">Linda Mezzetti</h1> </a> </span> </div>
-   <div class="col-3 text-right mt-4"> <span class="wsite-text wsite-phone"> Contact me and follow me via social media </span> </div>
-   <div class="col-1 text-right mt-4"> <span class="wsite-social wsite-social-default"> <a href="https://www.facebook.com/lindapaintsart?ref=hl" target="_blank"><img alt="Linda's facebook link" src="/assets/img/social/facebook-icon-footer.png "/></a> <a href="//www.instagram.com/artbymezzetti" target="_blank"><img alt="Linda's instagram link" src="/assets/img/social/instagram-icon-footer.png "/></a> </span> </div>
-  </div><!-- end row -->
-</div><!-- end header -->
-</div><!-- end header-container -->
-</div><!-- end container -->
-</div><!-- end of header-wrap -->
-<div class="main-wrap">
-<div class="container">
-<style>
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #002e53;
-  color:white;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-  width:100%;
-  line-height:2rem;
-  top:32px
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  color: white;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #fff;
-    color: #001e36;
-}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #001e36;}
-</style>
-<script>
-$(document).ready(function(){
-    $("#toggleLink").unbind().click(function() {
-        var showList = $("#toggleLink").hasClass("show-nav-link");
-        if (showList) {
-            $("#sub-menu").show();
-            $("#toggleLink").removeClass("show-nav-link");
-            $("#toggleLink").addClass("hide-nav-link");
-            $("#toggleLink").html("Hide section navigation<span class=\"fa fa-angle-up\">&nbsp;</span>");
-        } else {
-            $("#sub-menu").hide();
-            $("#toggleLink").removeClass("hide-nav-link");
-            $("#toggleLink").addClass("show-nav-link");
-            $("#toggleLink").html("Show section navigation<span class=\"fa fa-angle-down\">&nbsp;</span>");
-        }
-    });
-});
-</script>
-<nav id="topnav" role="navigation"><!-- class="collapse navbar-collapse">-->
-   <ul class="wsite-menu-default"><!-- nav navbar-nav">-->
-   <li id="menu-about" class=""> <a href="/">ABOUT ME</a> </li>
-   <li id="menu_dropdown-menu" id="" class="dropdown"> <a href="/gallery" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GALLERY <span class="caret"></span></a>
-<ul class="dropdown-content">
-<li> <a href="/gallery/acrylic-paintings.html">Acrylic Paintings</a> </li>
-<li> <a href="/gallery/oil-paintings.html">Oil Paintings</a> </li>
-<li> <a href="/gallery/silk-paintings.html">Silk Paintings</a> </li>
-</ul><!-- end dropdown-->
-   </li><!-- end dropdown-menu-->
-            
-<li id="se" class=""> <a href="/showsexhibitions">SHOWS AND EXHIBITIONS</a> </li>
-
-<li id="sc" class=""> <a href="/sewing">SEWN CREATIONS</a> </li>
-
-<li id="cm" class=""> <a href="/contact">CONTACT ME</a> </li>
-</ul>
-</nav>
-<!-- end of nav -->
-
-<div class="container-md">
+I"Fç<div class="container">
 <div class="row">
+<ul class="list-inline text-center">
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="0"><img style="height:70%;width:auto" src="../assets/img/acrylics/0.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="0"><img style="height:10%;width:10%" src="../assets/img/acrylics/0.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img style="height:70%;width:auto" src="../assets/img/acrylics/1.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img style="height:10%;width:10%" src="../assets/img/acrylics/1.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="2"><img style="height:70%;width:auto" src="../assets/img/acrylics/2.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="2"><img style="height:10%;width:10%" src="../assets/img/acrylics/2.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="3"><img style="height:70%;width:auto" src="../assets/img/acrylics/3.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="3"><img style="height:10%;width:10%" src="../assets/img/acrylics/3.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="4"><img style="height:70%;width:auto" src="../assets/img/acrylics/4.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="4"><img style="height:10%;width:10%" src="../assets/img/acrylics/4.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="5"><img style="height:70%;width:auto" src="../assets/img/acrylics/5.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="5"><img style="height:10%;width:10%" src="../assets/img/acrylics/5.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="6"><img style="height:70%;width:auto" src="../assets/img/acrylics/6.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="6"><img style="height:10%;width:10%" src="../assets/img/acrylics/6.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="7"><img style="height:70%;width:auto" src="../assets/img/acrylics/7.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="7"><img style="height:10%;width:10%" src="../assets/img/acrylics/7.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="8"><img style="height:70%;width:auto" src="../assets/img/acrylics/8.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="8"><img style="height:10%;width:10%" src="../assets/img/acrylics/8.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="9"><img style="height:70%;width:auto" src="../assets/img/acrylics/9.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="9"><img style="height:10%;width:10%" src="../assets/img/acrylics/9.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="10"><img style="height:70%;width:auto" src="../assets/img/acrylics/10.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="10"><img style="height:10%;width:10%" src="../assets/img/acrylics/10.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="11"><img style="height:70%;width:auto" src="../assets/img/acrylics/11.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="11"><img style="height:10%;width:10%" src="../assets/img/acrylics/11.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="12"><img style="height:70%;width:auto" src="../assets/img/acrylics/12.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="12"><img style="height:10%;width:10%" src="../assets/img/acrylics/12.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="13"><img style="height:70%;width:auto" src="../assets/img/acrylics/13.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="13"><img style="height:10%;width:10%" src="../assets/img/acrylics/13.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="14"><img style="height:70%;width:auto" src="../assets/img/acrylics/14.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="14"><img style="height:10%;width:10%" src="../assets/img/acrylics/14.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="15"><img style="height:70%;width:auto" src="../assets/img/acrylics/15.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="15"><img style="height:10%;width:10%" src="../assets/img/acrylics/15.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="16"><img style="height:70%;width:auto" src="../assets/img/acrylics/16.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="16"><img style="height:10%;width:10%" src="../assets/img/acrylics/16.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="17"><img style="height:70%;width:auto" src="../assets/img/acrylics/17.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="17"><img style="height:10%;width:10%" src="../assets/img/acrylics/17.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="18"><img style="height:70%;width:auto" src="../assets/img/acrylics/18.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="18"><img style="height:10%;width:10%" src="../assets/img/acrylics/18.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="19"><img style="height:70%;width:auto" src="../assets/img/acrylics/19.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="19"><img style="height:10%;width:10%" src="../assets/img/acrylics/19.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="20"><img style="height:70%;width:auto" src="../assets/img/acrylics/20.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="20"><img style="height:10%;width:10%" src="../assets/img/acrylics/20.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="21"><img style="height:70%;width:auto" src="../assets/img/acrylics/21.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="21"><img style="height:10%;width:10%" src="../assets/img/acrylics/21.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="22"><img style="height:70%;width:auto" src="../assets/img/acrylics/22.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="22"><img style="height:10%;width:10%" src="../assets/img/acrylics/22.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="23"><img style="height:70%;width:auto" src="../assets/img/acrylics/23.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="23"><img style="height:10%;width:10%" src="../assets/img/acrylics/23.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="24"><img style="height:70%;width:auto" src="../assets/img/acrylics/24.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="24"><img style="height:10%;width:10%" src="../assets/img/acrylics/24.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="25"><img style="height:70%;width:auto" src="../assets/img/acrylics/25.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="25"><img style="height:10%;width:10%" src="../assets/img/acrylics/25.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="26"><img style="height:70%;width:auto" src="../assets/img/acrylics/26.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="26"><img style="height:10%;width:10%" src="../assets/img/acrylics/26.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="27"><img style="height:70%;width:auto" src="../assets/img/acrylics/27.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="27"><img style="height:10%;width:10%" src="../assets/img/acrylics/27.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="28"><img style="height:70%;width:auto" src="../assets/img/acrylics/28.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="28"><img style="height:10%;width:10%" src="../assets/img/acrylics/28.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="29"><img style="height:70%;width:auto" src="../assets/img/acrylics/29.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="29"><img style="height:10%;width:10%" src="../assets/img/acrylics/29.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="30"><img style="height:70%;width:auto" src="../assets/img/acrylics/30.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="30"><img style="height:10%;width:10%" src="../assets/img/acrylics/30.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="31"><img style="height:70%;width:auto" src="../assets/img/acrylics/31.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="31"><img style="height:10%;width:10%" src="../assets/img/acrylics/31.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="32"><img style="height:70%;width:auto" src="../assets/img/acrylics/32.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="32"><img style="height:10%;width:10%" src="../assets/img/acrylics/32.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="33"><img style="height:70%;width:auto" src="../assets/img/acrylics/33.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="33"><img style="height:10%;width:10%" src="../assets/img/acrylics/33.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="34"><img style="height:70%;width:auto" src="../assets/img/acrylics/34.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="34"><img style="height:10%;width:10%" src="../assets/img/acrylics/34.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="35"><img style="height:70%;width:auto" src="../assets/img/acrylics/35.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="35"><img style="height:10%;width:10%" src="../assets/img/acrylics/35.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="36"><img style="height:70%;width:auto" src="../assets/img/acrylics/36.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="36"><img style="height:10%;width:10%" src="../assets/img/acrylics/36.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="37"><img style="height:70%;width:auto" src="../assets/img/acrylics/37.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="37"><img style="height:10%;width:10%" src="../assets/img/acrylics/37.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="38"><img style="height:70%;width:auto" src="../assets/img/acrylics/38.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="38"><img style="height:10%;width:10%" src="../assets/img/acrylics/38.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="39"><img style="height:70%;width:auto" src="../assets/img/acrylics/39.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="39"><img style="height:10%;width:10%" src="../assets/img/acrylics/39.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="40"><img style="height:70%;width:auto" src="../assets/img/acrylics/40.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="40"><img style="height:10%;width:10%" src="../assets/img/acrylics/40.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="41"><img style="height:70%;width:auto" src="../assets/img/acrylics/41.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="41"><img style="height:10%;width:10%" src="../assets/img/acrylics/41.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="42"><img style="height:70%;width:auto" src="../assets/img/acrylics/42.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="42"><img style="height:10%;width:10%" src="../assets/img/acrylics/42.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="43"><img style="height:70%;width:auto" src="../assets/img/acrylics/43.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="43"><img style="height:10%;width:10%" src="../assets/img/acrylics/43.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="44"><img style="height:70%;width:auto" src="../assets/img/acrylics/44.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="44"><img style="height:10%;width:10%" src="../assets/img/acrylics/44.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="46"><img style="height:70%;width:auto" src="../assets/img/acrylics/46.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="46"><img style="height:10%;width:10%" src="../assets/img/acrylics/46.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="47"><img style="height:70%;width:auto" src="../assets/img/acrylics/47.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="47"><img style="height:10%;width:10%" src="../assets/img/acrylics/47.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="49"><img style="height:70%;width:auto" src="../assets/img/acrylics/49.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="49"><img style="height:10%;width:10%" src="../assets/img/acrylics/49.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="50"><img style="height:70%;width:auto" src="../assets/img/acrylics/50.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="50"><img style="height:10%;width:10%" src="../assets/img/acrylics/50.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="51"><img style="height:70%;width:auto" src="../assets/img/acrylics/51.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="51"><img style="height:10%;width:10%" src="../assets/img/acrylics/51.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="52"><img style="height:70%;width:auto" src="../assets/img/acrylics/52.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="52"><img style="height:10%;width:10%" src="../assets/img/acrylics/52.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="53"><img style="height:70%;width:auto" src="../assets/img/acrylics/53.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="53"><img style="height:10%;width:10%" src="../assets/img/acrylics/53.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="54"><img style="height:70%;width:auto" src="../assets/img/acrylics/54.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="54"><img style="height:10%;width:10%" src="../assets/img/acrylics/54.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="55"><img style="height:70%;width:auto" src="../assets/img/acrylics/55.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="55"><img style="height:10%;width:10%" src="../assets/img/acrylics/55.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="56"><img style="height:70%;width:auto" src="../assets/img/acrylics/56.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="56"><img style="height:10%;width:10%" src="../assets/img/acrylics/56.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="57"><img style="height:70%;width:auto" src="../assets/img/acrylics/57.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="57"><img style="height:10%;width:10%" src="../assets/img/acrylics/57.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="58"><img style="height:70%;width:auto" src="../assets/img/acrylics/58.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="58"><img style="height:10%;width:10%" src="../assets/img/acrylics/58.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="59"><img style="height:70%;width:auto" src="../assets/img/acrylics/59.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="59"><img style="height:10%;width:10%" src="../assets/img/acrylics/59.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="60"><img style="height:70%;width:auto" src="../assets/img/acrylics/60.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="60"><img style="height:10%;width:10%" src="../assets/img/acrylics/60.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="61"><img style="height:70%;width:auto" src="../assets/img/acrylics/61.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="61"><img style="height:10%;width:10%" src="../assets/img/acrylics/61.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="62"><img style="height:70%;width:auto" src="../assets/img/acrylics/62.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="62"><img style="height:10%;width:10%" src="../assets/img/acrylics/62.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="64"><img style="height:70%;width:auto" src="../assets/img/acrylics/64.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="64"><img style="height:10%;width:10%" src="../assets/img/acrylics/64.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="65"><img style="height:70%;width:auto" src="../assets/img/acrylics/65.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="65"><img style="height:10%;width:10%" src="../assets/img/acrylics/65.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="66"><img style="height:70%;width:auto" src="../assets/img/acrylics/66.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="66"><img style="height:10%;width:10%" src="../assets/img/acrylics/66.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="67"><img style="height:70%;width:auto" src="../assets/img/acrylics/67.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="67"><img style="height:10%;width:10%" src="../assets/img/acrylics/67.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="68"><img style="height:70%;width:auto" src="../assets/img/acrylics/68.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="68"><img style="height:10%;width:10%" src="../assets/img/acrylics/68.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="69"><img style="height:70%;width:auto" src="../assets/img/acrylics/69.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="69"><img style="height:10%;width:10%" src="../assets/img/acrylics/69.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="70"><img style="height:70%;width:auto" src="../assets/img/acrylics/70.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="70"><img style="height:10%;width:10%" src="../assets/img/acrylics/70.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="71"><img style="height:70%;width:auto" src="../assets/img/acrylics/71.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="71"><img style="height:10%;width:10%" src="../assets/img/acrylics/71.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="72"><img style="height:70%;width:auto" src="../assets/img/acrylics/72.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="72"><img style="height:10%;width:10%" src="../assets/img/acrylics/72.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="73"><img style="height:70%;width:auto" src="../assets/img/acrylics/73.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="73"><img style="height:10%;width:10%" src="../assets/img/acrylics/73.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="74"><img style="height:70%;width:auto" src="../assets/img/acrylics/74.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="74"><img style="height:10%;width:10%" src="../assets/img/acrylics/74.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="75"><img style="height:70%;width:auto" src="../assets/img/acrylics/75.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="75"><img style="height:10%;width:10%" src="../assets/img/acrylics/75.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="76"><img style="height:70%;width:auto" src="../assets/img/acrylics/76.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="76"><img style="height:10%;width:10%" src="../assets/img/acrylics/76.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="77"><img style="height:70%;width:auto" src="../assets/img/acrylics/77.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="77"><img style="height:10%;width:10%" src="../assets/img/acrylics/77.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="78"><img style="height:70%;width:auto" src="../assets/img/acrylics/78.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="78"><img style="height:10%;width:10%" src="../assets/img/acrylics/78.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="79"><img style="height:70%;width:auto" src="../assets/img/acrylics/79.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="79"><img style="height:10%;width:10%" src="../assets/img/acrylics/79.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="80"><img style="height:70%;width:auto" src="../assets/img/acrylics/80.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="80"><img style="height:10%;width:10%" src="../assets/img/acrylics/80.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="81"><img style="height:70%;width:auto" src="../assets/img/acrylics/81.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="81"><img style="height:10%;width:10%" src="../assets/img/acrylics/81.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="82"><img style="height:70%;width:auto" src="../assets/img/acrylics/82.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="82"><img style="height:10%;width:10%" src="../assets/img/acrylics/82.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="83"><img style="height:70%;width:auto" src="../assets/img/acrylics/83.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="83"><img style="height:10%;width:10%" src="../assets/img/acrylics/83.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="84"><img style="height:70%;width:auto" src="../assets/img/acrylics/84.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="84"><img style="height:10%;width:10%" src="../assets/img/acrylics/84.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="85"><img style="height:70%;width:auto" src="../assets/img/acrylics/85.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="85"><img style="height:10%;width:10%" src="../assets/img/acrylics/85.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="86"><img style="height:70%;width:auto" src="../assets/img/acrylics/86.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="86"><img style="height:10%;width:10%" src="../assets/img/acrylics/86.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="87"><img style="height:70%;width:auto" src="../assets/img/acrylics/87.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="87"><img style="height:10%;width:10%" src="../assets/img/acrylics/87.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="88"><img style="height:70%;width:auto" src="../assets/img/acrylics/88.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="88"><img style="height:10%;width:10%" src="../assets/img/acrylics/88.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="89"><img style="height:70%;width:auto" src="../assets/img/acrylics/89.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="89"><img style="height:10%;width:10%" src="../assets/img/acrylics/89.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="90"><img style="height:70%;width:auto" src="../assets/img/acrylics/90.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="90"><img style="height:10%;width:10%" src="../assets/img/acrylics/90.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="91"><img style="height:70%;width:auto" src="../assets/img/acrylics/91.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="91"><img style="height:10%;width:10%" src="../assets/img/acrylics/91.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="92"><img style="height:70%;width:auto" src="../assets/img/acrylics/92.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="92"><img style="height:10%;width:10%" src="../assets/img/acrylics/92.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="93"><img style="height:70%;width:auto" src="../assets/img/acrylics/93.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="93"><img style="height:10%;width:10%" src="../assets/img/acrylics/93.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="94"><img style="height:70%;width:auto" src="../assets/img/acrylics/94.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="94"><img style="height:10%;width:10%" src="../assets/img/acrylics/94.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="95"><img style="height:70%;width:auto" src="../assets/img/acrylics/95.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="95"><img style="height:10%;width:10%" src="../assets/img/acrylics/95.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="96"><img style="height:70%;width:auto" src="../assets/img/acrylics/96.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="96"><img style="height:10%;width:10%" src="../assets/img/acrylics/96.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="97"><img style="height:70%;width:auto" src="../assets/img/acrylics/97.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="97"><img style="height:10%;width:10%" src="../assets/img/acrylics/97.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="98"><img style="height:70%;width:auto" src="../assets/img/acrylics/98.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="98"><img style="height:10%;width:10%" src="../assets/img/acrylics/98.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="99"><img style="height:70%;width:auto" src="../assets/img/acrylics/99.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="99"><img style="height:10%;width:10%" src="../assets/img/acrylics/99.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="100"><img style="height:70%;width:auto" src="../assets/img/acrylics/100.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="100"><img style="height:10%;width:10%" src="../assets/img/acrylics/100.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="101"><img style="height:70%;width:auto" src="../assets/img/acrylics/101.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="101"><img style="height:10%;width:10%" src="../assets/img/acrylics/101.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="102"><img style="height:70%;width:auto" src="../assets/img/acrylics/102.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="102"><img style="height:10%;width:10%" src="../assets/img/acrylics/102.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="103"><img style="height:70%;width:auto" src="../assets/img/acrylics/103.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="103"><img style="height:10%;width:10%" src="../assets/img/acrylics/103.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="104"><img style="height:70%;width:auto" src="../assets/img/acrylics/104.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="104"><img style="height:10%;width:10%" src="../assets/img/acrylics/104.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="105"><img style="height:70%;width:auto" src="../assets/img/acrylics/105.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="105"><img style="height:10%;width:10%" src="../assets/img/acrylics/105.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="106"><img style="height:70%;width:auto" src="../assets/img/acrylics/106.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="106"><img style="height:10%;width:10%" src="../assets/img/acrylics/106.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="107"><img style="height:70%;width:auto" src="../assets/img/acrylics/107.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="107"><img style="height:10%;width:10%" src="../assets/img/acrylics/107.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="108"><img style="height:70%;width:auto" src="../assets/img/acrylics/108.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="108"><img style="height:10%;width:10%" src="../assets/img/acrylics/108.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="109"><img style="height:70%;width:auto" src="../assets/img/acrylics/109.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="109"><img style="height:10%;width:10%" src="../assets/img/acrylics/109.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="110"><img style="height:70%;width:auto" src="../assets/img/acrylics/110.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="110"><img style="height:10%;width:10%" src="../assets/img/acrylics/110.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="111"><img style="height:70%;width:auto" src="../assets/img/acrylics/111.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="111"><img style="height:10%;width:10%" src="../assets/img/acrylics/111.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="112"><img style="height:70%;width:auto" src="../assets/img/acrylics/112.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="112"><img style="height:10%;width:10%" src="../assets/img/acrylics/112.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="113"><img style="height:70%;width:auto" src="../assets/img/acrylics/113.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="113"><img style="height:10%;width:10%" src="../assets/img/acrylics/113.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="114"><img style="height:70%;width:auto" src="../assets/img/acrylics/114.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="114"><img style="height:10%;width:10%" src="../assets/img/acrylics/114.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="115"><img style="height:70%;width:auto" src="../assets/img/acrylics/115.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="115"><img style="height:10%;width:10%" src="../assets/img/acrylics/115.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="116"><img style="height:70%;width:auto" src="../assets/img/acrylics/116.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="116"><img style="height:10%;width:10%" src="../assets/img/acrylics/116.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="117"><img style="height:70%;width:auto" src="../assets/img/acrylics/117.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="117"><img style="height:10%;width:10%" src="../assets/img/acrylics/117.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="118"><img style="height:70%;width:auto" src="../assets/img/acrylics/118.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="118"><img style="height:10%;width:10%" src="../assets/img/acrylics/118.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="119"><img style="height:70%;width:auto" src="../assets/img/acrylics/119.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="119"><img style="height:10%;width:10%" src="../assets/img/acrylics/119.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="120"><img style="height:70%;width:auto" src="../assets/img/acrylics/120.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="120"><img style="height:10%;width:10%" src="../assets/img/acrylics/120.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="121"><img style="height:70%;width:auto" src="../assets/img/acrylics/121.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="121"><img style="height:10%;width:10%" src="../assets/img/acrylics/121.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="122"><img style="height:70%;width:auto" src="../assets/img/acrylics/122.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="122"><img style="height:10%;width:10%" src="../assets/img/acrylics/122.jpg" class="img-thumbnail" /></a></li>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="123"><img style="height:70%;width:auto" src="../assets/img/acrylics/123.jpg" class="img-thumbnail" /></a></div>
+<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="123"><img style="height:10%;width:10%" src="../assets/img/acrylics/123.jpg" class="img-thumbnail" /></a></li>
 
 <!--<li data-toggle="modal" data-target="#myModal">
 <a href="#myGallery" data-slide-to="0"><img style="height:10%;width:10%" src="/assets/img/acrylics/0.jpg" class="img-thumbnail" /></a>
 </li>
 <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img style="height:10%;width:10%" src="/assets/img/acrylics/1.jpg" class="img-thumbnail" /></a></li>-->
+</ul>
 <!-- The Modal -->
 
 <div class="modal" id="myModal">
@@ -374,9 +267,7 @@ $(document).ready(function(){
 
 <!--INSERT CAROUSEL & FULL SIZE IMAGES HERE-->
 
-<div id="myGallery" class="carousel slide bg-dark" data-ride="carousel" data-interval="false"> 
-<div class="carousel-inner" role="listbox"> 
-<div class="container">
+<table class="table">
 <div class="row">
 
 <div class="col carousel-item active"> <img class="mx-auto" src="../assets/img/acrylics/0.jpg" alt="Feel the Music" /> 
@@ -864,14 +755,12 @@ $(document).ready(function(){
 </div><!--end-item-->
 
 </div><!-- end row -->
-</div><!-- end container -->
-</div><!--end-inner-->
+</table><!-- end container -->
 
 <!--Previous & Next arrows-->
 
 <a class="carousel-control-prev" href="#myGallery" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#myGallery" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div><!--end-inner-->
 
-</div><!--end-carousel-->
 
 <div class="modal-footer">
 
@@ -885,50 +774,4 @@ $(document).ready(function(){
 <!-- end width -->
 
 </div></div></div></div>
-<div id="footer-wrap">
-<div class="container">
-<div id="footer"> 
-</div>
-</div>
-</div>
-</div><!-- end container -->
-</div><!-- end main-wrap -->
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<script src="/assets/js/accessibleMegaMenu.js"></script>
-<!-- initialize a selector as an accessibleMegaMenu -->
-<script>
-    $(document).ready(function() { 
-
-    $("nav").accessibleMegaMenu({
-        /* prefix for generated unique id attributes, which are required 
-           to indicate aria-owns, aria-controls and aria-labelledby */
-        uuidPrefix: "accessible-megamenu",
-
-        /* css class used to define the megamenu styling */
-        menuClass: "wsite-menu-default",
-
-        /* css class for a top-level navigation item in the megamenu */
-        topNavItemClass: "wsite-nav",
-
-        /* css class for a megamenu panel */
-        panelClass: "dropdown-content",
-
-        /* css class for a group of items within a megamenu panel */
-        panelGroupClass: "sub-nav-group",
-
-        /* css class for the hover state */
-        hoverClass: "hover",
-
-        /* css class for the focus state */
-        focusClass: "focus",
-
-        /* css class for the open state */
-        openClass: "open"
-    });
-  });
-</script>    
-
-  </body>
-</html>
+:ET

@@ -4,17 +4,15 @@ layout: "normal"
 keywords: "Linda Mezzetti, Melbourne, Australia, painting"
 description: "Display of all her paintings"
 ---
-<div class="container">
+<div class="container-md">
 <div class="row">
-<ul class="list-inline text-center">
 {% for painting in site.data.paintings %}
-<li class="col" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="{{painting.file}}"><img style="height:10%;width:10%" src="../assets/img/{{ painting.type }}/{{ painting.file}}.jpg" class="img-thumbnail" /></a></li>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="{{painting.file}}"><img style="height:70%;width:auto" src="../assets/img/{{ painting.type }}/{{ painting.file}}.jpg" class="img-thumbnail" /></a></div>
 {% endfor %}
 <!--<li data-toggle="modal" data-target="#myModal">
 <a href="#myGallery" data-slide-to="0"><img style="height:10%;width:10%" src="{{ "../assets/img/acrylics/0.jpg" | relative_url}}" class="img-thumbnail" /></a>
 </li>
 <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img style="height:10%;width:10%" src="{{ "../assets/img/acrylics/1.jpg"|relative_url }}" class="img-thumbnail" /></a></li>-->
-</ul>
 <!-- The Modal -->
 
 <div class="modal" id="myModal">

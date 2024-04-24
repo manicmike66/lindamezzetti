@@ -17,18 +17,19 @@ description: "Acrylic Paintings"
 <div class="carousel-inner">
 
 {% for acrylic in site.data.acrylics %}
-{% if acrylic.file == "0" %} 
+{% capture number %}{{ forloop.length }}{% endcapture %}
+{% if acrylic.file == 0 %} 
 <div class="carousel-item active">
 <img style="height:400px;width:auto" src="{{"assets/img/acrylics/0.jpg" | relative_url }}" class="d-block w-100" />
 <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
-   <span style="padding:5px;color:black;background-color:white">Image 1 of 125. Feel the Music - Acrylic and mixed media, 51 x 61cm</span>
+   <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. Feel the Music - Acrylic and mixed media, 51 x 61cm</span>
    </div>
    </div>
 {% else %}
 <div class="carousel-item">
 <img style="height:400px;width:auto" src="/assets/img/acrylics/{{acrylic.file}}.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
-   <span style="padding:5px;color:black;background-color:white">Image {{acrylic.file}} of 125. {{acrylic.title}} ({{acrylic.size}})</span>
+   <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. {{acrylic.title}} ({{acrylic.size}})</span>
    </div>
    </div>
 {% endif %}

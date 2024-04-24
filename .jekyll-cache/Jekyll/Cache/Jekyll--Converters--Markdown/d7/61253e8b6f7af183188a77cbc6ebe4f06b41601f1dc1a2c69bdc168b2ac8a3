@@ -1,4 +1,4 @@
-I"4Ã<h2 class="text-center my-3 pt-4">Acrylic Paintings</h2>
+I"•≈<h2 class="text-center my-3 pt-4">Acrylic Paintings</h2>
 <div class="mx-auto" style="width:100%;height:440px">
 <div id="carouselCaptions" class="carousel slide carousel-fade pb-4" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -258,13 +258,14 @@
 <li data-target="#carouselCaptions" data-slide-to="125"></li>
 
 </ol>
+<div class="carousel-inner">
 
 
-
-<div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/0.jpg" class="d-block w-100" />
-   <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
-   <span style="padding:5px;color:black;background-color:white">Image 0 of 125. Feel the Music (51cm x 61cm)</span>
+ 
+<div class="carousel-item active">
+<img style="height:400px;width:auto" src="/assets/img/acrylics/0.jpg" class="d-block w-100" />
+<div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
+   <span style="padding:5px;color:black;background-color:white">Image 0 of 125. Feel the Music - Acrylic and mixed media, 51 x 61cm</span>
    </div>
    </div>
 
@@ -272,7 +273,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/1.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/1.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 1 of 125. Brisbane (76cm x 76cm)</span>
    </div>
@@ -282,7 +283,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/2.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/2.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 2 of 125. Flower (20cm x 20cm)</span>
    </div>
@@ -292,7 +293,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/3.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/3.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 3 of 125. Ponte Dei Sospiri (30cm x 40cm)</span>
    </div>
@@ -302,7 +303,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/4.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/4.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 4 of 125. Certaldo (30cm x 40cm)</span>
    </div>
@@ -312,7 +313,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/5.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/5.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 5 of 125. Colle Val D'Elsa Nightview (40cm x 50cm)</span>
    </div>
@@ -322,7 +323,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/6.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/6.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 6 of 125. A Bit of Fun (50cm x 70cm)</span>
    </div>
@@ -332,7 +333,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/7.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/7.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 7 of 125. Morning in Venice (91cm x 38cm)</span>
    </div>
@@ -342,7 +343,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/8.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/8.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 8 of 125. Brisbane River Fest (102cm x 51cm)</span>
    </div>
@@ -352,7 +353,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/9.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/9.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 9 of 125. Small Headache (41cm x 51cm)</span>
    </div>
@@ -362,7 +363,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/10.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/10.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 10 of 125. Lewis Chessmen I (25cm x 20cm)</span>
    </div>
@@ -372,7 +373,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/11.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/11.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 11 of 125. San Gimignano (70cm x 100cm)</span>
    </div>
@@ -382,7 +383,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/12.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/12.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 12 of 125. Colle Val D'Elsa (31cm x 41cm)</span>
    </div>
@@ -392,7 +393,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/13.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/13.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 13 of 125. Sailing Day (35cm x 28cm)</span>
    </div>
@@ -402,7 +403,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/14.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/14.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 14 of 125. Rainy City (76cm x 76cm)</span>
    </div>
@@ -412,7 +413,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/15.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/15.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 15 of 125. Autumn (31cm x 51cm)</span>
    </div>
@@ -422,7 +423,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/16.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/16.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 16 of 125. Costumier Frenette (40cm x 40cm)</span>
    </div>
@@ -432,7 +433,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/17.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/17.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 17 of 125. Pastel Meadow (51cm x 61cm)</span>
    </div>
@@ -442,7 +443,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/18.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/18.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 18 of 125. Snow Covered Trees (41cm x 51cm)</span>
    </div>
@@ -452,7 +453,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/19.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/19.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 19 of 125. Snow Family (51cm x 61cm)</span>
    </div>
@@ -462,7 +463,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/20.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/20.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 20 of 125. Chessmen (28cm x 35cm)</span>
    </div>
@@ -472,7 +473,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/21.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/21.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 21 of 125. Dans Le Jardin (41cm x 57cm)</span>
    </div>
@@ -482,7 +483,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/22.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/22.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 22 of 125. Brilliant Winter Morning (50cm x 50cm)</span>
    </div>
@@ -492,7 +493,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/23.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/23.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 23 of 125. Mountain Snowstorn (91cm x 122cm)</span>
    </div>
@@ -502,7 +503,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/24.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/24.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 24 of 125. Pienza (68cm x 70cm)</span>
    </div>
@@ -512,7 +513,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/25.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/25.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 25 of 125. Colourful Leaf (46cm x 35cm)</span>
    </div>
@@ -522,7 +523,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/26.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/26.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 26 of 125. Knight (10cm x 10cm)</span>
    </div>
@@ -532,7 +533,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/27.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/27.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 27 of 125. Colle Val D'Elsa Winter (50cm x 70cm)</span>
    </div>
@@ -542,7 +543,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/28.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/28.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 28 of 125. Winter Walk (91cm x 91cm)</span>
    </div>
@@ -552,7 +553,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/29.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/29.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 29 of 125. Castellina in Chianti (50cm x 70cm)</span>
    </div>
@@ -562,7 +563,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/30.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/30.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 30 of 125. Spring Mist (61cm x 122cm)</span>
    </div>
@@ -572,7 +573,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/31.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/31.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 31 of 125. Sea Woman (56cm x 61cm)</span>
    </div>
@@ -582,7 +583,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/32.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/32.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 32 of 125. Winter Walk I (76cm x 102cm)</span>
    </div>
@@ -592,7 +593,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/33.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/33.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 33 of 125. New York Fifth Ave 1892 (41cm x 51cm)</span>
    </div>
@@ -602,7 +603,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/34.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/34.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 34 of 125. Imaginary Village (77cm x 102cm)</span>
    </div>
@@ -612,7 +613,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/35.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/35.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 35 of 125. Campocatino (35cm x 40cm)</span>
    </div>
@@ -622,7 +623,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/36.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/36.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 36 of 125. Colourful Fields (61cm x 91cm)</span>
    </div>
@@ -632,7 +633,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/37.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/37.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 37 of 125. Lewis Chessmen III (25cm x 20cm)</span>
    </div>
@@ -642,7 +643,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/38.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/38.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 38 of 125. Kaleidoscope of Jazz (48cm x 63cm)</span>
    </div>
@@ -652,7 +653,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/39.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/39.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 39 of 125. Enoteca (61cm x 91cm)</span>
    </div>
@@ -662,7 +663,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/40.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/40.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 40 of 125. Tuscan Serenity (40cm x 50cm)</span>
    </div>
@@ -672,7 +673,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/41.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/41.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 41 of 125. Imaginary Tuscan Scene (60cm x 50cm)</span>
    </div>
@@ -682,7 +683,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/42.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/42.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 42 of 125. Temp√™te √† Montr√©al (41cm x 51cm)</span>
    </div>
@@ -692,7 +693,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/43.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/43.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 43 of 125. Big Sky (51cm x 61cm)</span>
    </div>
@@ -702,7 +703,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/44.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/44.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 44 of 125. Lovely Iris (61cm x 122cm)</span>
    </div>
@@ -712,7 +713,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/46.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/46.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 46 of 125. Lewis Chessmen II (25cm x 20cm)</span>
    </div>
@@ -722,7 +723,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/47.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/47.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 47 of 125. Bubbles (41cm x 51cm)</span>
    </div>
@@ -732,7 +733,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/49.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/49.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 49 of 125. Green Sky (20cm x 20cm)</span>
    </div>
@@ -742,7 +743,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/50.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/50.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 50 of 125. Edinburgh in the Fog (31cm x 41cm)</span>
    </div>
@@ -752,7 +753,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/51.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/51.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 51 of 125. McGill College looking North, Montr√©al (40cm x 51cm)</span>
    </div>
@@ -762,7 +763,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/52.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/52.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 52 of 125. Lewis Chessmen V (20cm x 25cm)</span>
    </div>
@@ -772,7 +773,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/53.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/53.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 53 of 125. Mask (91cm x 122cm)</span>
    </div>
@@ -782,7 +783,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/54.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/54.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 54 of 125. Misty Road (38cm x 91cm)</span>
    </div>
@@ -792,7 +793,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/55.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/55.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 55 of 125. Piazza San Marco (41cm x 31cm)</span>
    </div>
@@ -802,7 +803,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/56.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/56.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 56 of 125. A Crack in the Sky (61cm x 76cm)</span>
    </div>
@@ -812,7 +813,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/57.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/57.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 57 of 125. Colourful Shapes (61cm x 76cm)</span>
    </div>
@@ -822,7 +823,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/58.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/58.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 58 of 125. Stormy Skies over Wheat Fields (41cm x 51cm)</span>
    </div>
@@ -832,7 +833,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/59.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/59.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 59 of 125. Queen II (10cm x 10cm)</span>
    </div>
@@ -842,7 +843,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/60.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/60.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 60 of 125. Crashing Waves (25cm x 51cm)</span>
    </div>
@@ -852,7 +853,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/61.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/61.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 61 of 125. Painted Field (56cm x 71cm)</span>
    </div>
@@ -862,7 +863,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/62.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/62.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 62 of 125. Pink Abstract (50cm x 40cm)</span>
    </div>
@@ -872,7 +873,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/64.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/64.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 64 of 125. Wild Garden (30cm x 40cm)</span>
    </div>
@@ -882,7 +883,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/65.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/65.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 65 of 125. Abstract Alpine Village (20cm x 25cm)</span>
    </div>
@@ -892,7 +893,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/66.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/66.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 66 of 125. Queen I (10cm x 10cm)</span>
    </div>
@@ -902,7 +903,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/67.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/67.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 67 of 125. Lewis Chessmen IV (25cm x 20cm)</span>
    </div>
@@ -912,7 +913,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/68.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/68.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 68 of 125. Montr√©al from the St Laurence River (31cm x 91cm)</span>
    </div>
@@ -922,7 +923,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/69.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/69.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 69 of 125. Image Farm Abstract (56cm x 70cm)</span>
    </div>
@@ -932,7 +933,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/70.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/70.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 70 of 125. Volterra (28cm x 36cm)</span>
    </div>
@@ -942,7 +943,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/71.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/71.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 71 of 125. Lanterns by the Sea (40cm x 50cm)</span>
    </div>
@@ -952,7 +953,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/72.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/72.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 72 of 125. Villa Firenze, Fiesole (35cm x 45cm)</span>
    </div>
@@ -962,7 +963,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/73.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/73.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 73 of 125. Snowstorm in old Montreal (51cm x 61cm)</span>
    </div>
@@ -972,7 +973,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/74.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/74.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 74 of 125. Imaginary Village (40cm x 50cm)</span>
    </div>
@@ -982,7 +983,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/75.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/75.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 75 of 125. Spring Bulb (36cm x 36cm)</span>
    </div>
@@ -992,7 +993,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/76.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/76.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 76 of 125. Windy Landscape (51cm x 61cm)</span>
    </div>
@@ -1002,7 +1003,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/77.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/77.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 77 of 125. Montefiorelle (51cm x 61cm)</span>
    </div>
@@ -1012,7 +1013,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/78.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/78.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 78 of 125. Flower Dance (61cm x 122cm)</span>
    </div>
@@ -1022,7 +1023,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/79.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/79.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 79 of 125. Venice Twilight (61cm x 30cm)</span>
    </div>
@@ -1032,7 +1033,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/80.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/80.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 80 of 125. Stuck in the Snow (30cm x 40cm)</span>
    </div>
@@ -1042,7 +1043,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/81.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/81.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 81 of 125. Looking Towards Point Cook (41cm x 81cm)</span>
    </div>
@@ -1052,7 +1053,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/82.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/82.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 82 of 125. Susan's Ring (46cm x 61cm)</span>
    </div>
@@ -1062,7 +1063,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/83.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/83.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 83 of 125. Falling (51cm x 76cm)</span>
    </div>
@@ -1072,7 +1073,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/84.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/84.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 84 of 125. Frozen Lake at Dusk (91cm x 61cm)</span>
    </div>
@@ -1082,7 +1083,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/85.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/85.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 85 of 125. My Melbourne (91cm x 160cm)</span>
    </div>
@@ -1092,7 +1093,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/86.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/86.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 86 of 125. Headache (91cm x 122cm)</span>
    </div>
@@ -1102,7 +1103,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/87.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/87.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 87 of 125. Castello Di Vicchiomaggio (35cm x 45cm)</span>
    </div>
@@ -1112,7 +1113,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/88.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/88.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 88 of 125. Montefioralle (50cm x 60cm)</span>
    </div>
@@ -1122,7 +1123,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/89.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/89.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 89 of 125. Yippee! It's Snowing (41cm x 51cm)</span>
    </div>
@@ -1132,7 +1133,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/90.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/90.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 90 of 125. Peggy's Cove, Nova Scotia (41cm x 81cm)</span>
    </div>
@@ -1142,7 +1143,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/91.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/91.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 91 of 125. Happy Little Christmas Tree (45cm x 61cm)</span>
    </div>
@@ -1152,7 +1153,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/92.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/92.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 92 of 125. San Quirico, Val D'Orcia (41cm x 51cm)</span>
    </div>
@@ -1162,7 +1163,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/93.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/93.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 93 of 125. Winter Bird (20cm x 50cm)</span>
    </div>
@@ -1172,7 +1173,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/94.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/94.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 94 of 125. Storm on the Rise (61cm x 91cm)</span>
    </div>
@@ -1182,7 +1183,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/95.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/95.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 95 of 125. Green over Kansas (61cm x 91cm)</span>
    </div>
@@ -1192,7 +1193,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/96.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/96.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 96 of 125. Blue Abstract (50cm x 40cm)</span>
    </div>
@@ -1202,7 +1203,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/97.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/97.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 97 of 125. Stormy Seas (46cm x 55cm)</span>
    </div>
@@ -1212,7 +1213,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/98.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/98.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 98 of 125. Montreal Snowstorm (51cm x 56cm)</span>
    </div>
@@ -1222,7 +1223,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/99.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/99.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 99 of 125. Montefiorelle (51cm x 61cm)</span>
    </div>
@@ -1232,7 +1233,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/100.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/100.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 100 of 125. Blue Over Kansas (61cm x 91cm)</span>
    </div>
@@ -1242,7 +1243,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/101.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/101.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 101 of 125. My Heart is in the Fabric (153cm x 91cm)</span>
    </div>
@@ -1252,7 +1253,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/102.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/102.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 102 of 125. Breaking Waves (100cm x 75cm)</span>
    </div>
@@ -1262,7 +1263,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/103.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/103.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 103 of 125. It's all in her Mind (80cm x 80cm)</span>
    </div>
@@ -1272,7 +1273,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/104.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/104.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 104 of 125. Rough Seas Evening (120cm x 40cm)</span>
    </div>
@@ -1282,7 +1283,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/105.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/105.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 105 of 125. San Giminagno at Twilight (85cm x 88cm)</span>
    </div>
@@ -1292,7 +1293,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/106.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/106.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 106 of 125. Spring Dance (61cm x 76cm)</span>
    </div>
@@ -1302,7 +1303,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/107.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/107.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 107 of 125. Solitude (10cm x 30cm)</span>
    </div>
@@ -1312,7 +1313,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/108.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/108.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 108 of 125. Ocean (19.5cm x 20cm)</span>
    </div>
@@ -1322,7 +1323,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/109.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/109.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 109 of 125. Winter (11.5cm x 11.5cm)</span>
    </div>
@@ -1332,7 +1333,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/110.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/110.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 110 of 125. Autumn (11.5cm x 11.5cm)</span>
    </div>
@@ -1342,7 +1343,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/111.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/111.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 111 of 125. Tom Waits (20cm x 25.5cm)</span>
    </div>
@@ -1352,7 +1353,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/112.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/112.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 112 of 125. Stained Glass Flowers (15cm x 30cm)</span>
    </div>
@@ -1362,7 +1363,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/113.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/113.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 113 of 125. The Gossips (40.5cm x 30cm)</span>
    </div>
@@ -1372,7 +1373,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/114.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/114.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 114 of 125. Washing Up (13cm x 17.5cm)</span>
    </div>
@@ -1382,7 +1383,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/115.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/115.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 115 of 125. Winter Street (13cm x 17.5cm)</span>
    </div>
@@ -1392,7 +1393,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/116.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/116.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 116 of 125. Snowy Street (40cm x 50cm)</span>
    </div>
@@ -1402,7 +1403,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/117.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/117.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 117 of 125. Secrets (40cm x 50cm)</span>
    </div>
@@ -1412,7 +1413,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/118.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/118.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 118 of 125. Stella the Fortune Teller (60cm x 91cm)</span>
    </div>
@@ -1422,7 +1423,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/119.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/119.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 119 of 125. Snowy Day in San Gimingano (76cm x 51cm)</span>
    </div>
@@ -1432,7 +1433,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/120.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/120.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 120 of 125. The King (40cm x 51cm)</span>
    </div>
@@ -1442,7 +1443,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/121.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/121.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 121 of 125. Night Field (61cm x 76cm)</span>
    </div>
@@ -1452,7 +1453,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/122.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/122.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 122 of 125. Paint me Blue (61cm x 91cm)</span>
    </div>
@@ -1462,7 +1463,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/123.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/123.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 123 of 125. The Serene Field (41cm x 51cm)</span>
    </div>
@@ -1472,7 +1473,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/124.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/124.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 124 of 125. Birch Trees (30cm x 40.5cm)</span>
    </div>
@@ -1482,7 +1483,7 @@
 
 
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="/lindamezzetti/assets/img/acrylics/125.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="/assets/img/acrylics/125.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 125 of 125. Spring Flurries (60.5cm x 91.5cm)</span>
    </div>
@@ -1499,9 +1500,8 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div><!-- end carousel -->
 </div>
-<!-- end carousel -->
-<p>&lt;/div&gt;
-<!-- end width --></p>
+<!-- end width -->
 
 :ET

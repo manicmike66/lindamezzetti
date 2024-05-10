@@ -1,251 +1,254 @@
-I"K�<div class="container-md">
+I"L�<div class="container-md">
+<div class="row">
+<h1 class="h2">Thumbnail page. Click on any thumbnail for a gallery.</h1>
+</div>
 <div class="row">
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="0"><img style="height:70%;width:auto" src="../assets/img/acrylics/0.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="0"><img style="height:70%;width:auto" alt="Feel the Music" src="../assets/img/acrylics/0.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img style="height:70%;width:auto" src="../assets/img/acrylics/1.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img style="height:70%;width:auto" alt="Brisbane" src="../assets/img/acrylics/1.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="2"><img style="height:70%;width:auto" src="../assets/img/acrylics/2.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="2"><img style="height:70%;width:auto" alt="Flower" src="../assets/img/acrylics/2.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="3"><img style="height:70%;width:auto" src="../assets/img/acrylics/3.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="3"><img style="height:70%;width:auto" alt="Ponte Dei Sospiri" src="../assets/img/acrylics/3.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="4"><img style="height:70%;width:auto" src="../assets/img/acrylics/4.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="4"><img style="height:70%;width:auto" alt="Certaldo" src="../assets/img/acrylics/4.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="5"><img style="height:70%;width:auto" src="../assets/img/acrylics/5.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="5"><img style="height:70%;width:auto" alt="Colle Val D'Elsa Nightview" src="../assets/img/acrylics/5.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="6"><img style="height:70%;width:auto" src="../assets/img/acrylics/6.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="6"><img style="height:70%;width:auto" alt="A Bit of Fun" src="../assets/img/acrylics/6.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="7"><img style="height:70%;width:auto" src="../assets/img/acrylics/7.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="7"><img style="height:70%;width:auto" alt="Morning in Venice" src="../assets/img/acrylics/7.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="8"><img style="height:70%;width:auto" src="../assets/img/acrylics/8.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="8"><img style="height:70%;width:auto" alt="Brisbane River Fest" src="../assets/img/acrylics/8.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="9"><img style="height:70%;width:auto" src="../assets/img/acrylics/9.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="9"><img style="height:70%;width:auto" alt="Small Headache" src="../assets/img/acrylics/9.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="10"><img style="height:70%;width:auto" src="../assets/img/acrylics/10.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="10"><img style="height:70%;width:auto" alt="Lewis Chessmen I" src="../assets/img/acrylics/10.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="11"><img style="height:70%;width:auto" src="../assets/img/acrylics/11.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="11"><img style="height:70%;width:auto" alt="San Gimignano" src="../assets/img/acrylics/11.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="12"><img style="height:70%;width:auto" src="../assets/img/acrylics/12.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="12"><img style="height:70%;width:auto" alt="Colle Val D'Elsa" src="../assets/img/acrylics/12.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="13"><img style="height:70%;width:auto" src="../assets/img/acrylics/13.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="13"><img style="height:70%;width:auto" alt="Sailing Day" src="../assets/img/acrylics/13.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="14"><img style="height:70%;width:auto" src="../assets/img/acrylics/14.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="14"><img style="height:70%;width:auto" alt="Rainy City" src="../assets/img/acrylics/14.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="15"><img style="height:70%;width:auto" src="../assets/img/acrylics/15.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="15"><img style="height:70%;width:auto" alt="Autumn" src="../assets/img/acrylics/15.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="16"><img style="height:70%;width:auto" src="../assets/img/acrylics/16.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="16"><img style="height:70%;width:auto" alt="Costumier Frenette" src="../assets/img/acrylics/16.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="17"><img style="height:70%;width:auto" src="../assets/img/acrylics/17.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="17"><img style="height:70%;width:auto" alt="Pastel Meadow" src="../assets/img/acrylics/17.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="18"><img style="height:70%;width:auto" src="../assets/img/acrylics/18.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="18"><img style="height:70%;width:auto" alt="Snow Covered Trees" src="../assets/img/acrylics/18.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="19"><img style="height:70%;width:auto" src="../assets/img/acrylics/19.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="19"><img style="height:70%;width:auto" alt="Snow Family" src="../assets/img/acrylics/19.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="20"><img style="height:70%;width:auto" src="../assets/img/acrylics/20.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="20"><img style="height:70%;width:auto" alt="Chessmen" src="../assets/img/acrylics/20.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="21"><img style="height:70%;width:auto" src="../assets/img/acrylics/21.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="21"><img style="height:70%;width:auto" alt="Dans Le Jardin" src="../assets/img/acrylics/21.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="22"><img style="height:70%;width:auto" src="../assets/img/acrylics/22.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="22"><img style="height:70%;width:auto" alt="Brilliant Winter Morning" src="../assets/img/acrylics/22.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="23"><img style="height:70%;width:auto" src="../assets/img/acrylics/23.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="23"><img style="height:70%;width:auto" alt="Mountain Snowstorn" src="../assets/img/acrylics/23.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="24"><img style="height:70%;width:auto" src="../assets/img/acrylics/24.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="24"><img style="height:70%;width:auto" alt="Pienza" src="../assets/img/acrylics/24.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="25"><img style="height:70%;width:auto" src="../assets/img/acrylics/25.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="25"><img style="height:70%;width:auto" alt="Colourful Leaf" src="../assets/img/acrylics/25.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="26"><img style="height:70%;width:auto" src="../assets/img/acrylics/26.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="26"><img style="height:70%;width:auto" alt="Knight" src="../assets/img/acrylics/26.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="27"><img style="height:70%;width:auto" src="../assets/img/acrylics/27.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="27"><img style="height:70%;width:auto" alt="Colle Val D'Elsa Winter" src="../assets/img/acrylics/27.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="28"><img style="height:70%;width:auto" src="../assets/img/acrylics/28.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="28"><img style="height:70%;width:auto" alt="Winter Walk" src="../assets/img/acrylics/28.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="29"><img style="height:70%;width:auto" src="../assets/img/acrylics/29.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="29"><img style="height:70%;width:auto" alt="Castellina in Chianti" src="../assets/img/acrylics/29.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="30"><img style="height:70%;width:auto" src="../assets/img/acrylics/30.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="30"><img style="height:70%;width:auto" alt="Spring Mist" src="../assets/img/acrylics/30.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="31"><img style="height:70%;width:auto" src="../assets/img/acrylics/31.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="31"><img style="height:70%;width:auto" alt="Sea Woman" src="../assets/img/acrylics/31.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="32"><img style="height:70%;width:auto" src="../assets/img/acrylics/32.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="32"><img style="height:70%;width:auto" alt="Winter Walk I" src="../assets/img/acrylics/32.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="33"><img style="height:70%;width:auto" src="../assets/img/acrylics/33.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="33"><img style="height:70%;width:auto" alt="New York Fifth Ave 1892" src="../assets/img/acrylics/33.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="34"><img style="height:70%;width:auto" src="../assets/img/acrylics/34.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="34"><img style="height:70%;width:auto" alt="Imaginary Village" src="../assets/img/acrylics/34.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="35"><img style="height:70%;width:auto" src="../assets/img/acrylics/35.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="35"><img style="height:70%;width:auto" alt="Campocatino" src="../assets/img/acrylics/35.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="36"><img style="height:70%;width:auto" src="../assets/img/acrylics/36.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="36"><img style="height:70%;width:auto" alt="Colourful Fields" src="../assets/img/acrylics/36.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="37"><img style="height:70%;width:auto" src="../assets/img/acrylics/37.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="37"><img style="height:70%;width:auto" alt="Lewis Chessmen III" src="../assets/img/acrylics/37.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="38"><img style="height:70%;width:auto" src="../assets/img/acrylics/38.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="38"><img style="height:70%;width:auto" alt="Kaleidoscope of Jazz" src="../assets/img/acrylics/38.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="39"><img style="height:70%;width:auto" src="../assets/img/acrylics/39.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="39"><img style="height:70%;width:auto" alt="Enoteca" src="../assets/img/acrylics/39.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="40"><img style="height:70%;width:auto" src="../assets/img/acrylics/40.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="40"><img style="height:70%;width:auto" alt="Tuscan Serenity" src="../assets/img/acrylics/40.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="41"><img style="height:70%;width:auto" src="../assets/img/acrylics/41.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="41"><img style="height:70%;width:auto" alt="Imaginary Tuscan Scene" src="../assets/img/acrylics/41.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="42"><img style="height:70%;width:auto" src="../assets/img/acrylics/42.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="42"><img style="height:70%;width:auto" alt="Tempête à Montréal" src="../assets/img/acrylics/42.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="43"><img style="height:70%;width:auto" src="../assets/img/acrylics/43.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="43"><img style="height:70%;width:auto" alt="Big Sky" src="../assets/img/acrylics/43.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="44"><img style="height:70%;width:auto" src="../assets/img/acrylics/44.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="44"><img style="height:70%;width:auto" alt="Lovely Iris" src="../assets/img/acrylics/44.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="46"><img style="height:70%;width:auto" src="../assets/img/acrylics/46.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="46"><img style="height:70%;width:auto" alt="Lewis Chessmen II" src="../assets/img/acrylics/46.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="47"><img style="height:70%;width:auto" src="../assets/img/acrylics/47.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="47"><img style="height:70%;width:auto" alt="Bubbles" src="../assets/img/acrylics/47.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="49"><img style="height:70%;width:auto" src="../assets/img/acrylics/49.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="49"><img style="height:70%;width:auto" alt="Green Sky" src="../assets/img/acrylics/49.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="50"><img style="height:70%;width:auto" src="../assets/img/acrylics/50.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="50"><img style="height:70%;width:auto" alt="Edinburgh in the Fog" src="../assets/img/acrylics/50.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="51"><img style="height:70%;width:auto" src="../assets/img/acrylics/51.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="51"><img style="height:70%;width:auto" alt="McGill College looking North, Montréal" src="../assets/img/acrylics/51.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="52"><img style="height:70%;width:auto" src="../assets/img/acrylics/52.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="52"><img style="height:70%;width:auto" alt="Lewis Chessmen V" src="../assets/img/acrylics/52.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="53"><img style="height:70%;width:auto" src="../assets/img/acrylics/53.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="53"><img style="height:70%;width:auto" alt="Mask" src="../assets/img/acrylics/53.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="54"><img style="height:70%;width:auto" src="../assets/img/acrylics/54.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="54"><img style="height:70%;width:auto" alt="Misty Road" src="../assets/img/acrylics/54.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="55"><img style="height:70%;width:auto" src="../assets/img/acrylics/55.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="55"><img style="height:70%;width:auto" alt="Piazza San Marco" src="../assets/img/acrylics/55.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="56"><img style="height:70%;width:auto" src="../assets/img/acrylics/56.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="56"><img style="height:70%;width:auto" alt="A Crack in the Sky" src="../assets/img/acrylics/56.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="57"><img style="height:70%;width:auto" src="../assets/img/acrylics/57.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="57"><img style="height:70%;width:auto" alt="Colourful Shapes" src="../assets/img/acrylics/57.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="58"><img style="height:70%;width:auto" src="../assets/img/acrylics/58.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="58"><img style="height:70%;width:auto" alt="Stormy Skies over Wheat Fields" src="../assets/img/acrylics/58.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="59"><img style="height:70%;width:auto" src="../assets/img/acrylics/59.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="59"><img style="height:70%;width:auto" alt="Queen II" src="../assets/img/acrylics/59.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="60"><img style="height:70%;width:auto" src="../assets/img/acrylics/60.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="60"><img style="height:70%;width:auto" alt="Crashing Waves" src="../assets/img/acrylics/60.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="61"><img style="height:70%;width:auto" src="../assets/img/acrylics/61.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="61"><img style="height:70%;width:auto" alt="Painted Field" src="../assets/img/acrylics/61.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="62"><img style="height:70%;width:auto" src="../assets/img/acrylics/62.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="62"><img style="height:70%;width:auto" alt="Pink Abstract" src="../assets/img/acrylics/62.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="64"><img style="height:70%;width:auto" src="../assets/img/acrylics/64.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="64"><img style="height:70%;width:auto" alt="Wild Garden" src="../assets/img/acrylics/64.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="65"><img style="height:70%;width:auto" src="../assets/img/acrylics/65.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="65"><img style="height:70%;width:auto" alt="Abstract Alpine Village" src="../assets/img/acrylics/65.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="66"><img style="height:70%;width:auto" src="../assets/img/acrylics/66.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="66"><img style="height:70%;width:auto" alt="Queen I" src="../assets/img/acrylics/66.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="67"><img style="height:70%;width:auto" src="../assets/img/acrylics/67.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="67"><img style="height:70%;width:auto" alt="Lewis Chessmen IV" src="../assets/img/acrylics/67.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="68"><img style="height:70%;width:auto" src="../assets/img/acrylics/68.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="68"><img style="height:70%;width:auto" alt="Montréal from the St Laurence River" src="../assets/img/acrylics/68.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="69"><img style="height:70%;width:auto" src="../assets/img/acrylics/69.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="69"><img style="height:70%;width:auto" alt="Image Farm Abstract" src="../assets/img/acrylics/69.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="70"><img style="height:70%;width:auto" src="../assets/img/acrylics/70.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="70"><img style="height:70%;width:auto" alt="Volterra" src="../assets/img/acrylics/70.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="71"><img style="height:70%;width:auto" src="../assets/img/acrylics/71.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="71"><img style="height:70%;width:auto" alt="Lanterns by the Sea" src="../assets/img/acrylics/71.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="72"><img style="height:70%;width:auto" src="../assets/img/acrylics/72.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="72"><img style="height:70%;width:auto" alt="Villa Firenze, Fiesole" src="../assets/img/acrylics/72.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="73"><img style="height:70%;width:auto" src="../assets/img/acrylics/73.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="73"><img style="height:70%;width:auto" alt="Snowstorm in old Montreal" src="../assets/img/acrylics/73.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="74"><img style="height:70%;width:auto" src="../assets/img/acrylics/74.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="74"><img style="height:70%;width:auto" alt="Imaginary Village" src="../assets/img/acrylics/74.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="75"><img style="height:70%;width:auto" src="../assets/img/acrylics/75.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="75"><img style="height:70%;width:auto" alt="Spring Bulb" src="../assets/img/acrylics/75.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="76"><img style="height:70%;width:auto" src="../assets/img/acrylics/76.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="76"><img style="height:70%;width:auto" alt="Windy Landscape" src="../assets/img/acrylics/76.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="77"><img style="height:70%;width:auto" src="../assets/img/acrylics/77.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="77"><img style="height:70%;width:auto" alt="Montefiorelle" src="../assets/img/acrylics/77.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="78"><img style="height:70%;width:auto" src="../assets/img/acrylics/78.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="78"><img style="height:70%;width:auto" alt="Flower Dance" src="../assets/img/acrylics/78.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="79"><img style="height:70%;width:auto" src="../assets/img/acrylics/79.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="79"><img style="height:70%;width:auto" alt="Venice Twilight" src="../assets/img/acrylics/79.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="80"><img style="height:70%;width:auto" src="../assets/img/acrylics/80.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="80"><img style="height:70%;width:auto" alt="Stuck in the Snow" src="../assets/img/acrylics/80.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="81"><img style="height:70%;width:auto" src="../assets/img/acrylics/81.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="81"><img style="height:70%;width:auto" alt="Looking Towards Point Cook" src="../assets/img/acrylics/81.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="82"><img style="height:70%;width:auto" src="../assets/img/acrylics/82.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="82"><img style="height:70%;width:auto" alt="Susan's Ring" src="../assets/img/acrylics/82.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="83"><img style="height:70%;width:auto" src="../assets/img/acrylics/83.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="83"><img style="height:70%;width:auto" alt="Falling" src="../assets/img/acrylics/83.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="84"><img style="height:70%;width:auto" src="../assets/img/acrylics/84.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="84"><img style="height:70%;width:auto" alt="Frozen Lake at Dusk" src="../assets/img/acrylics/84.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="85"><img style="height:70%;width:auto" src="../assets/img/acrylics/85.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="85"><img style="height:70%;width:auto" alt="My Melbourne" src="../assets/img/acrylics/85.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="86"><img style="height:70%;width:auto" src="../assets/img/acrylics/86.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="86"><img style="height:70%;width:auto" alt="Headache" src="../assets/img/acrylics/86.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="87"><img style="height:70%;width:auto" src="../assets/img/acrylics/87.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="87"><img style="height:70%;width:auto" alt="Castello Di Vicchiomaggio" src="../assets/img/acrylics/87.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="88"><img style="height:70%;width:auto" src="../assets/img/acrylics/88.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="88"><img style="height:70%;width:auto" alt="Montefioralle" src="../assets/img/acrylics/88.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="89"><img style="height:70%;width:auto" src="../assets/img/acrylics/89.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="89"><img style="height:70%;width:auto" alt="Yippee! It's Snowing" src="../assets/img/acrylics/89.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="90"><img style="height:70%;width:auto" src="../assets/img/acrylics/90.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="90"><img style="height:70%;width:auto" alt="Peggy's Cove, Nova Scotia" src="../assets/img/acrylics/90.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="91"><img style="height:70%;width:auto" src="../assets/img/acrylics/91.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="91"><img style="height:70%;width:auto" alt="Happy Little Christmas Tree" src="../assets/img/acrylics/91.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="92"><img style="height:70%;width:auto" src="../assets/img/acrylics/92.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="92"><img style="height:70%;width:auto" alt="San Quirico, Val D'Orcia" src="../assets/img/acrylics/92.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="93"><img style="height:70%;width:auto" src="../assets/img/acrylics/93.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="93"><img style="height:70%;width:auto" alt="Winter Bird" src="../assets/img/acrylics/93.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="94"><img style="height:70%;width:auto" src="../assets/img/acrylics/94.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="94"><img style="height:70%;width:auto" alt="Storm on the Rise" src="../assets/img/acrylics/94.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="95"><img style="height:70%;width:auto" src="../assets/img/acrylics/95.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="95"><img style="height:70%;width:auto" alt="Green over Kansas" src="../assets/img/acrylics/95.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="96"><img style="height:70%;width:auto" src="../assets/img/acrylics/96.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="96"><img style="height:70%;width:auto" alt="Blue Abstract" src="../assets/img/acrylics/96.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="97"><img style="height:70%;width:auto" src="../assets/img/acrylics/97.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="97"><img style="height:70%;width:auto" alt="Stormy Seas" src="../assets/img/acrylics/97.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="98"><img style="height:70%;width:auto" src="../assets/img/acrylics/98.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="98"><img style="height:70%;width:auto" alt="Montreal Snowstorm" src="../assets/img/acrylics/98.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="99"><img style="height:70%;width:auto" src="../assets/img/acrylics/99.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="99"><img style="height:70%;width:auto" alt="Montefiorelle" src="../assets/img/acrylics/99.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="100"><img style="height:70%;width:auto" src="../assets/img/acrylics/100.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="100"><img style="height:70%;width:auto" alt="Blue Over Kansas" src="../assets/img/acrylics/100.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="101"><img style="height:70%;width:auto" src="../assets/img/acrylics/101.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="101"><img style="height:70%;width:auto" alt="My Heart is in the Fabric" src="../assets/img/acrylics/101.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="102"><img style="height:70%;width:auto" src="../assets/img/acrylics/102.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="102"><img style="height:70%;width:auto" alt="Breaking Waves" src="../assets/img/acrylics/102.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="103"><img style="height:70%;width:auto" src="../assets/img/acrylics/103.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="103"><img style="height:70%;width:auto" alt="It's all in her Mind" src="../assets/img/acrylics/103.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="104"><img style="height:70%;width:auto" src="../assets/img/acrylics/104.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="104"><img style="height:70%;width:auto" alt="Rough Seas Evening" src="../assets/img/acrylics/104.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="105"><img style="height:70%;width:auto" src="../assets/img/acrylics/105.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="105"><img style="height:70%;width:auto" alt="San Giminagno at Twilight" src="../assets/img/acrylics/105.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="106"><img style="height:70%;width:auto" src="../assets/img/acrylics/106.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="106"><img style="height:70%;width:auto" alt="Spring Dance" src="../assets/img/acrylics/106.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="107"><img style="height:70%;width:auto" src="../assets/img/acrylics/107.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="107"><img style="height:70%;width:auto" alt="Solitude" src="../assets/img/acrylics/107.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="108"><img style="height:70%;width:auto" src="../assets/img/acrylics/108.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="108"><img style="height:70%;width:auto" alt="Ocean" src="../assets/img/acrylics/108.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="109"><img style="height:70%;width:auto" src="../assets/img/acrylics/109.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="109"><img style="height:70%;width:auto" alt="Winter" src="../assets/img/acrylics/109.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="110"><img style="height:70%;width:auto" src="../assets/img/acrylics/110.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="110"><img style="height:70%;width:auto" alt="Autumn" src="../assets/img/acrylics/110.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="111"><img style="height:70%;width:auto" src="../assets/img/acrylics/111.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="111"><img style="height:70%;width:auto" alt="Tom Waits" src="../assets/img/acrylics/111.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="112"><img style="height:70%;width:auto" src="../assets/img/acrylics/112.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="112"><img style="height:70%;width:auto" alt="Stained Glass Flowers" src="../assets/img/acrylics/112.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="113"><img style="height:70%;width:auto" src="../assets/img/acrylics/113.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="113"><img style="height:70%;width:auto" alt="The Gossips" src="../assets/img/acrylics/113.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="114"><img style="height:70%;width:auto" src="../assets/img/acrylics/114.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="114"><img style="height:70%;width:auto" alt="Washing Up" src="../assets/img/acrylics/114.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="115"><img style="height:70%;width:auto" src="../assets/img/acrylics/115.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="115"><img style="height:70%;width:auto" alt="Winter Street" src="../assets/img/acrylics/115.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="116"><img style="height:70%;width:auto" src="../assets/img/acrylics/116.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="116"><img style="height:70%;width:auto" alt="Snowy Street" src="../assets/img/acrylics/116.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="117"><img style="height:70%;width:auto" src="../assets/img/acrylics/117.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="117"><img style="height:70%;width:auto" alt="Secrets" src="../assets/img/acrylics/117.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="118"><img style="height:70%;width:auto" src="../assets/img/acrylics/118.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="118"><img style="height:70%;width:auto" alt="Stella the Fortune Teller" src="../assets/img/acrylics/118.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="119"><img style="height:70%;width:auto" src="../assets/img/acrylics/119.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="119"><img style="height:70%;width:auto" alt="Snowy Day in San Gimingano" src="../assets/img/acrylics/119.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="120"><img style="height:70%;width:auto" src="../assets/img/acrylics/120.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="120"><img style="height:70%;width:auto" alt="The King" src="../assets/img/acrylics/120.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="121"><img style="height:70%;width:auto" src="../assets/img/acrylics/121.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="121"><img style="height:70%;width:auto" alt="Night Field" src="../assets/img/acrylics/121.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="122"><img style="height:70%;width:auto" src="../assets/img/acrylics/122.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="122"><img style="height:70%;width:auto" alt="Paint me Blue" src="../assets/img/acrylics/122.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="123"><img style="height:70%;width:auto" src="../assets/img/acrylics/123.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="123"><img style="height:70%;width:auto" alt="The Serene Field" src="../assets/img/acrylics/123.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="124"><img style="height:70%;width:auto" src="../assets/img/acrylics/124.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="124"><img style="height:70%;width:auto" alt="Birch Trees" src="../assets/img/acrylics/124.jpg" class="img-thumbnail" /></a></div>
 
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="125"><img style="height:70%;width:auto" src="../assets/img/acrylics/125.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="125"><img style="height:70%;width:auto" alt="Spring Flurries" src="../assets/img/acrylics/125.jpg" class="img-thumbnail" /></a></div>
 
 <!--<li data-toggle="modal" data-target="#myModal">
 <a href="#myGallery" data-slide-to="0"><img style="height:10%;width:10%" src="/assets/img/acrylics/0.jpg" class="img-thumbnail" /></a>

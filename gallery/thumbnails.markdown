@@ -6,8 +6,11 @@ description: "Display of all her paintings"
 ---
 <div class="container-md">
 <div class="row">
+<h1 class="h2">Thumbnail page. Click on any thumbnail for a gallery.</h1>
+</div>
+<div class="row">
 {% for painting in site.data.paintings %}
-<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="{{painting.file}}"><img style="height:70%;width:auto" src="../assets/img/{{ painting.type }}/{{ painting.file}}.jpg" class="img-thumbnail" /></a></div>
+<div class="col-md-1" data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="{{painting.file}}"><img style="height:70%;width:auto" alt="{{ painting.title }}" src="../assets/img/{{ painting.type }}/{{ painting.file}}.jpg" class="img-thumbnail" /></a></div>
 {% endfor %}
 <!--<li data-toggle="modal" data-target="#myModal">
 <a href="#myGallery" data-slide-to="0"><img style="height:10%;width:10%" src="{{ "../assets/img/acrylics/0.jpg" | relative_url}}" class="img-thumbnail" /></a>

@@ -27,7 +27,7 @@ description: "Acrylic Paintings"
    </div>
 {% else %}
 <div class="carousel-item">
-<img style="height:400px;width:auto" src="{{config.baseurl}}/assets/img/acrylics/{{acrylic.file}}.jpg" class="d-block w-100" />
+<img style="height:400px;width:auto" src="../assets/img/acrylics/{{acrylic.file}}.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. {{acrylic.title}} ({{acrylic.size}})</span>
    </div>

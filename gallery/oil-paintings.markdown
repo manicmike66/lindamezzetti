@@ -21,7 +21,7 @@ description: "Oil Paintings"
 {% if oil.file == 0 %} 
 <div class="carousel-item active">
 <img style="height:400px;width:auto" src="{{"assets/img/oils/0.jpg" | relative_url }}" class="d-block w-100" />
-<div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
+<div style="bottom:-38px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. Portrait of a Man – a copy of a painting by Antonello Da Messina 1475 - Oil on wood board, 28 x 36cm</span>
    </div>
    </div>

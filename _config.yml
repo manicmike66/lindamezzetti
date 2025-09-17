@@ -2,8 +2,8 @@ title: "Linda Mezzetti"
 email: lindapaintsart@gmail.com
 description: "Linda is an artist and sewist from Canada, now living in Melbourne, Australia"
 baseurl: ""
-# baseurl: "/lindamezzetti"
-url: "http://lindamezzetti.com.au"
+baseurl: "/lindamezzetti"
+# url: "http://lindamezzetti.com.au"
 github_username:  "manicmike66"
 
 theme: minima

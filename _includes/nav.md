@@ -74,7 +74,7 @@ $(document).ready(function(){
 <li> <a href="{{ "gallery/acrylic-paintings.html" | relative_url}}">Acrylic Paintings</a> </li>
 <li> <a href="{{ "gallery/oil-paintings.html" | relative_url}}">Oil Paintings</a> </li>
 <li> <a href="{{ "gallery/silk-paintings.html" | relative_url}}">Silk Paintings</a> </li>
-<li> <a href="{{ "gallery/thumbnails.html" | relative_url}}">Acrylic Thumbnails</a> </li>
+<!--<li> <a href="{{ "gallery/thumbnails.html" | relative_url}}">Acrylic Thumbnails</a> </li>-->
 </ul><!-- end dropdown-->
    </li><!-- end dropdown-menu-->
             
